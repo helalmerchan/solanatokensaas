@@ -30,7 +30,7 @@ To get started with creating Solana tokens, simply visit the [Solana Token Creat
 
 ## Usage
 
-1. Visit the [Solana Token Creator Website](https://solanagenius-solanatokencreator.netlify.app/).
+1. Visit the [Solana Token Creator Website]().
 2. Fill in the required details for your custom token, such as name, symbol, supply, decimals, etc.
 3. Review the information provided and ensure it meets your requirements.
 4. Click on the "Create Token" button to initiate the token creation process.
