@@ -21,7 +21,7 @@ Here are six best offers you can highlight in your Solana token popularity secti
 6. **Comprehensive Support:** With Solana Genius, you'll have access to comprehensive support to address any questions or issues you encounter during the token creation process, ensuring a smooth experience from start to finish.
 ## Getting Started
 
-To get started with creating Solana tokens, simply visit the [Solana Token Creator Website](https://solanagenius-solanatokencreator.netlify.app/) and follow the on-screen instructions.
+To get started with creating Solana tokens, simply visit the [Solana Token Creator Website]() and follow the on-screen instructions.
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ Join us in redefining the way NFTs are experienced, interacted with, and celebra
 
 ## Support
 
-If you encounter any issues or have any questions regarding the Solana Token Creator Website, please feel free to [contact us](mailto:shubham.more@iitgn.ac.in) for assistance.
+If you encounter any issues or have any questions regarding the Solana Token Creator Website, please feel free to [contact us]() for assistance.
 
 ## Contributing
 
@@ -77,7 +77,7 @@ If you're interested in contributing to the development of the Solana Token Crea
 1. **Clone the Repository:** Use Git to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/Shubhammore71/solana-token-creator.git
+   git clone 
    ```
 
 2. **Navigate to the Project Directory:** Move into the project directory.
